@@ -1,6 +1,6 @@
 # Formulario de Contacto con Bootstrap
 
-Este proyecto es una página HTML simple que muestra un formulario de contacto con estilos y validación usando Bootstrap 5.
+Este proyecto es una página HTML simple que muestra un formulario con estilos Bootstrap 5.
 
 ## Características
 
